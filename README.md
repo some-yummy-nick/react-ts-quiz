@@ -1,3 +1,4 @@
+![screenshot](https://github.com/some-yummy-nick/react-ts-quiz/blob/master/react-ts-quiz.png)
 
 [по видео на youtube](https://youtu.be/F2JCjVSZlG0)
 
